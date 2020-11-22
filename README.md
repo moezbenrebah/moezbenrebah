@@ -49,14 +49,6 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Boul3ez85's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Boul3ez85&show_icons=true&hide_border=true&theme=dracula" />
