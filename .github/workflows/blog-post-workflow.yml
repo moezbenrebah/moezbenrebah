@@ -14,4 +14,5 @@ jobs:
      - uses: gautamkrishnar/blog-post-workflow@master
        with:
          # Replace this URL with your rss feed URL/s
+         commit_message: "Updated readme with the latest Blog data"
          feed_list: "https://myblogg.tech/rss.xml"
