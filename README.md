@@ -41,13 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Succeed in blogging within your own field](https://myblogg.tech/succeed-in-blogging-within-your-own-field)
 - [Get started with Shell & Linux commands Line](https://myblogg.tech/get-started-with-shell-and-linux-commands-line-1)
 - [Four reasons for start\keeping blogging](https://myblogg.tech/four-reasons-for-startkeeping-blogging)
 - [What happens when you type "www.foobar.com" in your browser and hit enter](https://myblogg.tech/what-happens-when-you-type-wwwfoobarcom-in-your-browser-and-hit-enter)
 - [How to avoid grammar and spelling errors in your blog (free tools)](https://myblogg.tech/how-to-avoid-grammar-and-spelling-errors-in-your-blog-free-tools)
-
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://myblogg.tech)
