@@ -8,29 +8,21 @@
 
 ### Connect with me:
 
-<div>
-  <style>
-    #iconone:hove {
-      background-color: blue;
-    }
-  </style>
-  <a id="iconeone" href="https://twitter.com/benrebahmoez1" target="_blank" rel="noopener">
-    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill=blue" alt="Twitter" />
-  </a>
+<a id="iconeone" href="https://twitter.com/benrebahmoez1" target="_blank" rel="noopener">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill=blue" alt="Twitter" />
+</a>
 
-  <a href="https://www.linkedin.com/in/moez-ben-rebah-47ba641a1/">
-    <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+<a href="https://www.linkedin.com/in/moez-ben-rebah-47ba641a1/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-  <a href="https://myblogg.tech">
-    <img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/blogger.svg" />
-  </a>
+<a href="https://myblogg.tech">
+  <img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/blogger.svg" />
+</a>
 
-  <a href="https://www.youtube.com/channel/UCqx6WFbclUygmFlsOh8wt1Q?view_as=subscriber">
-    <img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg" />
-  </a>
-</div>
-
+<a href="https://www.youtube.com/channel/UCqx6WFbclUygmFlsOh8wt1Q?view_as=subscriber">
+  <img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg" />
+</a>
 
 
 <br>
