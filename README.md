@@ -42,7 +42,7 @@
 <br>
 <br>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Open to part-time Job%20👨‍💻&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Opentopart-timeJob%20👨‍💻&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 
 <br>
