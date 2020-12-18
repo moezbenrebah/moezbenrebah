@@ -7,10 +7,11 @@
 
 
 ### Connect with me:
+
+<style>
+  .iconone:hover { fill: blue;}
+</style>
 <div class="iconone">
-  <style>
-    .iconone:hover { fill: blue;}
-  </style>
   <a href="https://twitter.com/benrebahmoez1">
     <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill=blue" alt="Twitter"/>
   </a>
