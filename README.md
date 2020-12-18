@@ -1,6 +1,6 @@
 ### Hi there, I'm Moez 👋
 
-### I'm a Husband, Father, and Software engineer student
+### I'm a Husband, a Father, and a Software engineer student
 
 - 🌱 I’m currently learning <b>full stack web developement</b> 👨‍💻
 - 👯 I’m looking to collaborate with other content creators
