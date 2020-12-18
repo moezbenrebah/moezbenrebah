@@ -9,11 +9,17 @@
 ### Connect with me:
 
 <a href="https://twitter.com/benrebahmoez1">
-<img align="left"  alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: blue">
+  <img align="left"  alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: blue" />
 </a>
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/blogger.svg" />][Blog]
-[<img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg" />][youtube]
+<a href="https://www.linkedin.com/in/moez-ben-rebah-47ba641a1/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://myblogg.tech">
+  <img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/blogger.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCqx6WFbclUygmFlsOh8wt1Q?view_as=subscriber">
+  <img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg" />
+</a>
 
 
 <br />
