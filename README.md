@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/benrebahmoez1">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill=blue" alt="Twitter" target="_blank" rel="noopener"/>
+<a href="https://twitter.com/benrebahmoez1" target="_blank" rel="noopener">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill=blue" alt="Twitter" />
 </a>
 
 <a href="https://www.linkedin.com/in/moez-ben-rebah-47ba641a1/">
