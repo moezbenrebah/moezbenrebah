@@ -9,7 +9,7 @@
 ### Connect with me:
 
 <a href="https://twitter.com/benrebahmoez1">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill: blue" alt="Twitter"/>
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="background-color: blue" alt="Twitter"/>
 </a>
 <a href="https://www.linkedin.com/in/moez-ben-rebah-47ba641a1/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
