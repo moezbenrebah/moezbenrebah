@@ -64,11 +64,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the M.E.R.N Stack](https://myblogg.tech/understanding-the-mern-stack)
 - [Linux - Basic File and Directory Permission/Ownership](https://myblogg.tech/linux-basic-file-and-directory-permissionownership)
 - [Let's create a GIF with python](https://myblogg.tech/lets-create-a-gif-with-python)
 - [Internet of thing "IoT" in a nutshell](https://myblogg.tech/internet-of-thing-iot-in-a-nutshell)
 - [Succeed in blogging within your own field](https://myblogg.tech/succeed-in-blogging-within-your-own-field)
-- [Get started with Shell & Linux commands Line](https://myblogg.tech/get-started-with-shell-and-linux-commands-line-1)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://myblogg.tech)
