@@ -8,9 +8,14 @@
 
 ### Connect with me:
 
-<a id="iconeone" href="https://twitter.com/benrebahmoez1" target="_blank" rel="noopener">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill=blue" alt="Twitter" />
-</a>
+<svg viewBox="0 0 100 100" class="icon shape-twitter">
+  <use xlink:href="https://twitter.com/benrebahmoez1"></use>
+  <style>
+    .shape-twitter {
+      fill: #55ACEE
+    }
+  </style>
+</svg>
 
 <a href="https://www.linkedin.com/in/moez-ben-rebah-47ba641a1/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
