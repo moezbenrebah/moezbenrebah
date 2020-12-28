@@ -9,19 +9,19 @@
 ### Connect with me:
 
 <a href="https://twitter.com/benrebahmoez1">
-  <img align="left" alt="Twitter" width="22px" src="//s.svgbox.net/social.svg?fill=blue#twitter">
+  <img align="left" alt="Twitter" width="22px" src="https://i.imgur.com/NozFIRM.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/moez-ben-rebah-47ba641a1/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://i.imgur.com/Kw0zkMO.png" />
 </a>
 
 <a href="https://myblogg.tech">
-  <img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/blogger.svg" />
+  <img align="left" alt="Blog" width="22px" src="https://i.imgur.com/nmJPzdl.png" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCqx6WFbclUygmFlsOh8wt1Q">
-  <img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg">
+  <img align="left" alt="Blog" width="22px" src="https://i.imgur.com/u93z6xL.png" />
 </a>
 
 
