@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://www.youtube.com/channel/UCqx6WFbclUygmFlsOh8wt1Q">
-  <img align="left" alt="Blog" width="22px" src="https://i.imgur.com/u93z6xL.png" />
+  <img align="left" alt="Youtube Channel" width="22px" src="https://i.imgur.com/sw8blUb.png" />
 </a>
 
 
