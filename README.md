@@ -8,14 +8,9 @@
 
 ### Connect with me:
 
-<svg viewBox="0 0 100 100" class="icon shape-twitter">
-  <use xlink:href="https://twitter.com/benrebahmoez1"></use>
-  <style>
-    svg {
-      fill: #27ae60;
-    }
-  </style>
-</svg>
+<a href="https://twitter.com/benrebahmoez1">
+  <img align="left" alt="LinkedIn" width="22px" src="//s.svgbox.net/social.svg?fill=blue#twitter">
+</a>
 
 <a href="https://www.linkedin.com/in/moez-ben-rebah-47ba641a1/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
