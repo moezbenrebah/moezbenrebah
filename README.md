@@ -11,8 +11,8 @@
 <svg viewBox="0 0 100 100" class="icon shape-twitter">
   <use xlink:href="https://twitter.com/benrebahmoez1"></use>
   <style>
-    .shape-twitter {
-      fill: #55ACEE
+    svg {
+      fill: #27ae60;
     }
   </style>
 </svg>
