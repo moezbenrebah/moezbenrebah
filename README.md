@@ -20,7 +20,9 @@
   <img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/blogger.svg" />
 </a>
 
-<a href="https://www.youtube.com/channel/UCqx6WFbclUygmFlsOh8wt1Q"><img src="https://github.com/sindresorhus/sindresorhus/raw/master/info.svg?sanitize=true"></a>
+<a href="https://www.youtube.com/channel/UCqx6WFbclUygmFlsOh8wt1Q">
+  <img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg">
+</a>
 
 
 <br>
