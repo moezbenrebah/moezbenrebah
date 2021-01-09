@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning <b>full stack web developement</b> 👨‍💻
 - 👯 I’m looking to collaborate with other content creators
-- I'm a beginner technical writer
+- :octocat: I'm a beginner technical writer :pencil:
 
 ### Connect with me:
 
