@@ -49,13 +49,6 @@
 
 <br>
 <br>
-<hr>
-<br>
-<br>
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Open_to_part-time_Job%20👨‍💻&width=900&height=300)](https://github.com/Boul3ez85)
-
-
 <br>
 <br>
 
