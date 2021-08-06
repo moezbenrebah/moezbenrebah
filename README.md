@@ -64,7 +64,7 @@
 - [Let's create a GIF with python](https://myblogg.tech/lets-create-a-gif-with-python)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://myblogg.tech)
+➡️ [more blog posts...](https://hashnode.com/@Moez)
 
 ---
 
