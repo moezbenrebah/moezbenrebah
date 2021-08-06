@@ -64,7 +64,7 @@
 - [Let's create a GIF with python](https://myblogg.tech/lets-create-a-gif-with-python)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://hashnode.com/@Moez)
+➡️ [more blog posts...](https://focus.hashnode.dev/)
 
 ---
 
@@ -77,8 +77,8 @@
 
 [twitter]: https://twitter.com/benrebahmoez1
 [youtube]: https://www.youtube.com/channel/UCqx6WFbclUygmFlsOh8wt1Q?view_as=subscriber
-[linkedin]: https://www.linkedin.com/in/moez-ben-rebah-47ba641a1/
-[Blog]: https://myblogg.tech
+[linkedin]: https://www.linkedin.com/in/moezbenrebah/
+[Blog]: https://hashnode.com/@Moez
 [Gmail]: benrebah.moez@gmail.com
 
 
