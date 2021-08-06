@@ -15,4 +15,4 @@ jobs:
        with:
          # Replace this URL with your rss feed URL/s
          commit_message: "Updated readme with the latest Blog data"
-         feed_list: "https://hashnode.com/@Moez"
+         feed_list: "https://focus.hashnode.dev/rss.xml"
