@@ -58,10 +58,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Designer language - prototype](https://focus.hashnode.dev/designer-language-prototype)
-- [Designer language - Research / Improve Spotify's UX](https://focus.hashnode.dev/designer-language-research-improve-spotifys-ux)
+- [Designer language - Research / Improve Spotify&#39;s UX](https://focus.hashnode.dev/designer-language-research-improve-spotifys-ux)
 - [Understanding the M.E.R.N Stack](https://focus.hashnode.dev/understanding-the-mern-stack)
 - [Linux - Basic File and Directory Permission/Ownership](https://focus.hashnode.dev/linux-basic-file-and-directory-permissionownership)
-- [Let's create a GIF with python](https://focus.hashnode.dev/lets-create-a-gif-with-python)
+- [Let&#39;s create a GIF with python](https://focus.hashnode.dev/lets-create-a-gif-with-python)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://focus.hashnode.dev/)
