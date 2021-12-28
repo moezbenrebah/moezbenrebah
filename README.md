@@ -16,7 +16,7 @@
   <img align="left" alt="LinkedIn" width="22px" src="https://i.imgur.com/Kw0zkMO.png" />
 </a>
 
-<a href="https://myblogg.tech">
+<a href="https://focus.hashnode.dev/">
   <img align="left" alt="Blog" width="22px" src="https://i.imgur.com/nmJPzdl.png" />
 </a>
 
