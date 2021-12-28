@@ -71,13 +71,13 @@
 <details open>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Boul3ez85's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Boul3ez85&show_icons=true&hide_border=true&theme=dracula" />
+  <img align="left" alt="moez's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=moezbenrebah&show_icons=true&hide_border=true&theme=dracula" />
 
 </details>
 
 [twitter]: https://twitter.com/benrebahmoez1
 [youtube]: https://www.youtube.com/channel/UCqx6WFbclUygmFlsOh8wt1Q?view_as=subscriber
-[linkedin]: https://www.linkedin.com/in/moezbenrebah/
+[linkedin]: https://www.linkedin.com/in/moez-ben-rebah-47ba641a1/
 [Blog]: https://hashnode.com/@Moez
 [Gmail]: benrebah.moez@gmail.com
 
