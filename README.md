@@ -1,5 +1,7 @@
 ### Hi there, I'm Moez 👋
 
+![](https://komarev.com/ghpvc/?username=moezbenrebah&label=PROFILE+VIEWS&color=blue&style=flat-square)
+
 ### I'm a Husband, a Father, and a Software engineer student
 
 - 🌱 I’m currently learning <b>full stack web developement</b> 👨‍💻
