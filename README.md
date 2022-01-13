@@ -2,52 +2,29 @@
 
 ![](https://komarev.com/ghpvc/?username=moezbenrebah&label=PROFILE+VIEWS&color=blue&style=flat-square)
 
-### I'm a Husband, a Father, and a Software engineer student
+<br><br>
 
-- 🌱 I’m currently learning <b>full stack web developement</b> 👨‍💻
-- 👯 I’m looking to collaborate with other content creators
-- :octocat: I'm a beginner technical writer :pencil:
+<img src="https://github.com/moezbenrebah/moezbenrebah/blob/main/languages&technologies.gif" width="1000" height="600">
+
+<br><br><br>
 
 ### Connect with me:
 
 <a href="https://twitter.com/benrebahmoez1">
-  <img align="left" alt="Twitter" width="22px" src="https://i.imgur.com/NozFIRM.png" />
+  <img align="left" alt="Twitter" width="33px" src="https://i.imgur.com/NozFIRM.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/moez-ben-rebah-47ba641a1/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://i.imgur.com/Kw0zkMO.png" />
+  <img align="left" alt="LinkedIn" width="33px" src="https://i.imgur.com/Kw0zkMO.png" />
 </a>
 
 <a href="https://focus.hashnode.dev/">
-  <img align="left" alt="Blog" width="22px" src="https://i.imgur.com/nmJPzdl.png" />
+  <img align="left" alt="Blog" width="33px" src="https://i.imgur.com/nmJPzdl.png" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCqx6WFbclUygmFlsOh8wt1Q">
-  <img align="left" alt="Youtube Channel" width="22px" src="https://i.imgur.com/sw8blUb.png" />
+  <img align="left" alt="Youtube Channel" width="33px" src="https://i.imgur.com/sw8blUb.png" />
 </a>
-
-
-<br>
-
-### Languages:
-
-
-<img align="left" alt="C" width="26px" src="https://i.imgur.com/3B65ag6.png" />
-<img align="left" alt="Python" width="26px" src="https://i.imgur.com/w8GdV2R.png" />
-<img align="left" alt="Flask" width="26px" src="https://i.imgur.com/1GgALBu.jpg" />
-<img align="left" alt="HTML5" width="26px" src="https://i.imgur.com/Qb7CGcO.png" />
-<img align="left" alt="CSS3" width="26px" src="https://i.imgur.com/XwPXdgO.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://i.imgur.com/7CVVhWM.png" />
-
-
-<br>
-
-### Technologies:
-
-<img align="left" alt="MySQL" width="26px" src="https://i.imgur.com/0DhgDJa.jpg" />
-<img align="left" alt="Git" width="26px" src="https://i.imgur.com/QdAeKG5.png" />
-<img align="left" alt="GitHub" width="26px" src="https://i.imgur.com/LwBS0FG.png" />
-<img align="left" alt="Terminal" width="26px" src="https://i.imgur.com/xtGnB3F.png" />
 
 <br>
 <br>
