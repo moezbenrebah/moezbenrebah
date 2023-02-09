@@ -1,12 +1,8 @@
-### Hi there, I'm Moez 👋
+### HEY EVERYONE 👋
 
 ![](https://komarev.com/ghpvc/?username=moezbenrebah&label=PROFILE+VIEWS&color=blue&style=flat-square)
 
 <br><br>
-
-<img src="https://github.com/moezbenrebah/moezbenrebah/blob/main/languages&technologies.gif" width="1000" height="600">
-
-<br><br><br>
 
 ### Connect with me:
 
