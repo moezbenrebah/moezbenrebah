@@ -14,14 +14,6 @@
   <img align="left" alt="LinkedIn" width="33px" src="https://i.imgur.com/Kw0zkMO.png" />
 </a>
 
-<a href="https://focus.hashnode.dev/">
-  <img align="left" alt="Blog" width="33px" src="https://i.imgur.com/nmJPzdl.png" />
-</a>
-
-<a href="https://www.youtube.com/channel/UCqx6WFbclUygmFlsOh8wt1Q">
-  <img align="left" alt="Youtube Channel" width="33px" src="https://i.imgur.com/sw8blUb.png" />
-</a>
-
 <br>
 <br>
 <br>
