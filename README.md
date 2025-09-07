@@ -7,7 +7,7 @@
 ### Connect with me:
 
 <a href="https://twitter.com/benrebahmoez1">
-  <img align="left" alt="Twitter" width="33px" src="https://i.imgur.com/NozFIRM.png" />
+  <img align="left" alt="Twitter" width="33px" src="https://i.imgur.com/e8ZXfHa.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/moez-ben-rebah-47ba641a1/">
